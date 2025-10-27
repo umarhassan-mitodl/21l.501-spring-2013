@@ -1,0 +1,42 @@
+leftnav:
+- identifier: 0e4dcefd-f40d-c88a-e88e-233bab5f94f4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 4a4f6c08-d1fa-be38-57ee-9311dae9d648
+  name: Motivation and Organization of the Course
+  pageRef: /pages/instructor-insights/motivation-and-organization-of-the-course
+  parent: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
+  weight: 30
+- identifier: 08f37100-4674-469e-5a14-7d6fd08843ea
+  name: Choice of Novels
+  pageRef: /pages/instructor-insights/choice-of-novels
+  parent: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
+  weight: 40
+- identifier: d2ab7fc0-46c8-b37c-d161-2c7facfa195b
+  name: Digital Tools
+  pageRef: /pages/instructor-insights/digital-tools
+  parent: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
+  weight: 50
+- identifier: 960bdec3-70db-9240-3256-c1030d9fe7f8
+  name: Additional Class Features
+  pageRef: /pages/instructor-insights/additional-class-features
+  parent: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
+  weight: 60
+- identifier: a0feb7f5-40f6-f72e-86c8-648b37953db6
+  name: Teaching at MIT
+  pageRef: /pages/instructor-insights/teaching-at-mit
+  parent: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
+  weight: 70
+- identifier: 39f13ef5-e443-ab56-0915-41da879f533d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: c2130b3b-9d72-85a6-c4c3-c297de99f92a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
